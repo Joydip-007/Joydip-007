@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying BSc in Computer Science.<br>My aim is to become a Software Developer.<br>I am fluent in both Bangla and English Language<br>I know Java &C programming Languages for starter.
+I'm currently studying BSc in Computer Science.<br>My aim is to become a Software Developer.<br>I am fluent in both Bangla and English Language<br>I know Java & C programming Languages for starter.
 
 
 ## 🌐 Socials:
